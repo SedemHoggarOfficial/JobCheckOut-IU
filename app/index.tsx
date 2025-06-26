@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { Ionicons } from '@expo/vector-icons';
 //import { SafeAreaView } from 'react-native-safe-area-context';
-import { Text,SafeAreaView, ScrollView, Animated, TouchableOpacity, View, StyleSheet, Modal, Dimensions, Platform } from "react-native";
+import { Text,SafeAreaView, ScrollView, Animated, TouchableOpacity, View, StyleSheet, Modal, Dimensions} from "react-native";
 import { useFonts } from "expo-font";
 
 // Use @react-native-community/slider for cross-platform support
